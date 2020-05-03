@@ -6,6 +6,8 @@ Stolon is a multithreaded password wordlist management script inspired by toolin
 
 ## Usage
 
+Before using, remember to install Stolon's requirements using `pip install -r requirements.txt`.
+
 Stolon operates on incoming files and processes data either to stdout or an output file.
 
 ````bash
