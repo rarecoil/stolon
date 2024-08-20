@@ -1,5 +1,5 @@
 beautifulsoup4==4.9.0
-nltk==3.4.5
+nltk==3.9
 pyspellchecker==0.5.4
 six==1.14.0
 soupsieve==2.0
